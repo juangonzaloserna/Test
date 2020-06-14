@@ -4,6 +4,7 @@
   "description": "nuestro primer proyecto de node js",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "echo \"Pendiente script de start"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/juangonzaloserna/Test/issues"
   },
-  "homepage": "https://github.com/juangonzaloserna/Test#readme"
+  "homepage": "https://github.com/juangonzaloserna/Test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
