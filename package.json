@@ -1,0 +1,19 @@
+{
+  "name": "miprimerproyecto",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto de node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juangonzaloserna/Test.git"
+  },
+  "author": "Juan Gonzalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juangonzaloserna/Test/issues"
+  },
+  "homepage": "https://github.com/juangonzaloserna/Test#readme"
+}
