@@ -1,0 +1,20 @@
+.productsList {
+    display: flex;
+}
+
+.item {
+    margin: 10px;
+}
+
+.tittle {
+    color: royalblue;
+}
+
+.jumbotron {
+    background-color: grey;
+    color: black;
+}
+
+.footer {
+    background-color:grey;
+}
